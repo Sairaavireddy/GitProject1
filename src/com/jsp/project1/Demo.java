@@ -5,7 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		// changes made by sai
 		//changes made by praveen
-		//featcher added by sai
+		//features added by sai
 	}
 	
 	
